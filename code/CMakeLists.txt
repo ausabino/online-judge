@@ -10,7 +10,7 @@ cmake_minimum_required(VERSION 3.10)
 project(OnJudge)
 
 # add the executable
-add_executable(OnJudge 12250.cc)
+add_executable(OnJudge 00272.cc)
 
 # Uftrace
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pg -finstrument-functions")

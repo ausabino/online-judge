@@ -12,6 +12,10 @@ Halim)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&catego
 
   - [272 - TEX Quotes](code/00272.cc) ([site](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=208))
 
+### Volume 117 ###
+
+  - [11799 - Horror Dash](code/11799.cc) ([site](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=608&page=show_problem&problem=2899))
+
 ### Volume 122 ###
 
   - [12250 - Language Detection](code/12250.cc) ([site](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3402))
