@@ -23,3 +23,4 @@ Halim)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&catego
 ### Volume 122 ###
 
   - [12250 - Language Detection](code/12250.cc) ([site](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=607&page=show_problem&problem=3402))
+  - [12478 - Hardest Problem Ever (Easy)](code/12478.cc) ([site](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=609&page=show_problem&problem=3922))

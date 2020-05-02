@@ -1,8 +1,9 @@
 # cmake -H. -Bbuild/
 # cd build/
 # make VERBOSE=1
-# ctest -R OnJudgeT -D ExperimentalMemCheck
-# uftrace OnJudge
+# ./OnJudge < in
+# ctest -R OnJudgeT -D ExperimentalMemCheck < in
+# uftrace OnJudge < in
 
 cmake_minimum_required(VERSION 3.10)
 
@@ -10,7 +11,7 @@ cmake_minimum_required(VERSION 3.10)
 project(OnJudge)
 
 # add the executable
-add_executable(OnJudge 11799.cc)
+add_executable(OnJudge 10963.cc)
 
 # Uftrace
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pg -finstrument-functions")
